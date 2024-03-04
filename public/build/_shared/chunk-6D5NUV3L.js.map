@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/user/styles.jsx"],
+  "sourcesContent": ["export const card = {\r\n\tboxShadow: 'rgb(0 0 0 / 7%) 0px 10px 41px',\r\n\tbackground: '#f0f1f5',\r\n}\r\n\r\nexport const cardItem = {\r\n\ttextAlign: 'center',\r\n\tmarginTop: '10px',\r\n}\r\nexport const transItem = {\r\n\tpadding: 24,\r\n\tminHeight: 360,\r\n\tbackground: '#fff',\r\n}\r\nexport const categoryItem = {\r\n\tpadding: '30px',\r\n}\r\nexport const btnCat = {\r\n\twidth: '100%',\r\n\tmarginTop: '15px',\r\n\tcolor: '#fff',\r\n\tborder: '2px solid #2c2c58',\r\n\tborderRadius: '5px',\r\n\tfontSize: '16px',\r\n\ttextTransform: 'capitalize',\r\n\tbackground: '#2c2c58',\r\n\tpadding: '5px 10px 5px 10px',\r\n}\r\nexport const listyle = {\r\n\theight: 32,\r\n\tmargin: 16,\r\n\tbackground: 'rgba(255, 255, 255, 0.2)',\r\n\tcolor: '#fff',\r\n\tdisplay: 'flex',\r\n\tjustifyContent: 'center',\r\n\talignItems: 'center',\r\n}\r\n\r\nexport const transItems = {\r\n\tpadding: 24,\r\n\tminHeight: 525,\r\n\tbackground: '#f0f1f5',\r\n}\r\n"],
+  "mappings": ";AAAO,IAAM,OAAO;AAAA,EACnB,WAAW;AAAA,EACX,YAAY;AACb;AAWO,IAAM,eAAe;AAAA,EAC3B,SAAS;AACV;AACO,IAAM,SAAS;AAAA,EACrB,OAAO;AAAA,EACP,WAAW;AAAA,EACX,OAAO;AAAA,EACP,QAAQ;AAAA,EACR,cAAc;AAAA,EACd,UAAU;AAAA,EACV,eAAe;AAAA,EACf,YAAY;AAAA,EACZ,SAAS;AACV;AACO,IAAM,UAAU;AAAA,EACtB,QAAQ;AAAA,EACR,QAAQ;AAAA,EACR,YAAY;AAAA,EACZ,OAAO;AAAA,EACP,SAAS;AAAA,EACT,gBAAgB;AAAA,EAChB,YAAY;AACb;AAEO,IAAM,aAAa;AAAA,EACzB,SAAS;AAAA,EACT,WAAW;AAAA,EACX,YAAY;AACb;",
+  "names": []
+}
